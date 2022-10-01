@@ -1,10 +1,13 @@
 {
-  "latestVersion": "1.0",
-  "latestVersionCode": "10",
-  "url": "https://play.google.com/store/apps/details?id=",
+  "latestVersion": "2.1",
+  "latestVersionCode": "21",
+  "url": "https://play.google.com/store/apps/details?id=com.flixeon.app",
   "releaseNotes": [
-    "[New] Something New",
-    "[Update] Something Updated",
-    "[Fix] Something Fixed"
+    "[Fix] Fixed bugs",
+    "[Fix] Fixed several servers not showing up or loading",
+    "[Update] Material Design Components to support Android 12L",
+    "[Update] Added many new servers and improved the reliability",
+    "[Update] Minor UI changes",
+    "[Update] Added Android 12L/13 support"
   ]
 }

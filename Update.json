@@ -1,12 +1,11 @@
 {
-  "latestVersion": "2.0",
-  "latestVersionCode": "52",
-  "url": "https://bitbucket.org/bitbucketellosvki/ellovskinu/downloads/Flixeon_v2.0.apk",
+  "latestVersion": "1.2-NEW",
+  "latestVersionCode": "51",
+  "url": "https://go.flixeon.me/latest",
   "releaseNotes": [
-"[Fix] Bug fixes",
-"[New] Trakt support",
-"[Update] Major UI improvements",
-"[Update] Added new sources",
-"[Note] The new version will be installed as a separate app"
+    "[Fix] Bug fixes",
+    "[Update] Major UI improvements",
+    "[Update] External library updates",
+    "[Note] The new version will be installed as a separate app"
   ]
 }
